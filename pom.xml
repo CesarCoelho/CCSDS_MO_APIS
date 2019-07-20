@@ -19,7 +19,7 @@
   <parent>
     <groupId>int.esa.ccsds.mo</groupId>
     <artifactId>POM</artifactId>
-    <version>5</version>
+    <version>7</version>
     <relativePath/>
   </parent>
   
@@ -68,5 +68,6 @@
     <module>CCSDS_MC_API</module>
     <module>CCSDS_TEST_MAL_API</module>
     <module>CCSDS_TEST_COM_API</module>
+    <module>CCSDS_TEST_MC_API</module>
   </modules>
 </project>
